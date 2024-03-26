@@ -1,6 +1,6 @@
 {
   "name": "@sohailcu/simple-calculator",
-  "version": "1.0.0",
+  "version": "2.1.0",
   "description": "A Simple Calculator with Typescript, Node.js and inquirer",
   "main": "index.js",
   "type": "module",
