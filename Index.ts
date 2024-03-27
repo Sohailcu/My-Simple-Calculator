@@ -1,6 +1,9 @@
 #! /usr/bin/env node
 
 import inquirer from "inquirer";
+
+console.log("Welcome to My App.! Let's get started.");
+
 const answer = await inquirer.prompt([
     {message: "Enter Your Fisrt Number", type: "number", name: "Firstnumber"},
     {message: "Enter Your Second Number", type: "number", name: "SecondNumber"},
